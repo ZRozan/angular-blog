@@ -1,0 +1,15 @@
+
+.container__main-title > h1{
+  margin: 1rem 0rem;
+  font-size: 5.5rem;
+  font-weight: bolder;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+.container__main-title > hr {
+  margin: .5rem 0rem;
+  border-top: double .25rem #e7e7e7;
+  border-bottom: double .25rem #e7e7e7;
+}
