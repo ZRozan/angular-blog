@@ -11,6 +11,7 @@
 .photo__card-small > img{
   width: 150px;
   min-width: 150px;
+  margin: 0rem .5rem;
 }
 
 .title__card-small{
