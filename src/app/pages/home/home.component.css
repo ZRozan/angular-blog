@@ -3,9 +3,3 @@
   flex-direction: row;
   justify-content: center;
 }
-
-header{
-  margin: 1rem 0rem;
-  display: flex;
-  justify-content: center;
-}
